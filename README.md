@@ -33,7 +33,8 @@ A simple web app to get current weather and climate information for any city usi
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/Screenshot-2025-08-19-151213.jpg)
+![Home Page](assets/Screenshot%202025-08-19%20151213.png)
 
 ### Weather Result Page
-![Weather Result](assets/Screenshot-2025-08-19-151235.jpg)
+![Weather Result](assets/Screenshot%202025-08-19%20151235.png)
+
